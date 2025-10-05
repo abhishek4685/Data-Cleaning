@@ -1,4 +1,4 @@
-Data Cleaning Project: Data Scientist Job Postings     
+**Data Cleaning Project:** Data Scientist Job Postings     
 Objective: The primary goal of this project was to take a raw, messy dataset of data science job postings and transform it into a clean, structured format ready for analysis. This project demonstrates a typical data wrangling and preparation workflow.
 Dataset:
 The original dataset used is Uncleaned_DS_jobs.csv, which contains various details about job listings, including salary estimates, company information, and job descriptions.
